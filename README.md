@@ -19,3 +19,5 @@ In the development of an AI chatbot, multiple sources and tools are utilized to 
 *OUTPUT*:
 
 <img width="640" height="328" alt="Image" src="https://github.com/user-attachments/assets/e1230b52-00cb-4aeb-83d4-9ae23e6eed34" />
+
+<img width="694" height="363" alt="Image" src="https://github.com/user-attachments/assets/36149ae6-e8f0-4e58-b9d8-bd2caaac003f" />
